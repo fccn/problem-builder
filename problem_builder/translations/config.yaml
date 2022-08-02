@@ -4,7 +4,8 @@ locales:
     - en  # English - Source Language
     - ar  # Arabic
     - es-419  # Spanish
-    - pt-br  # Portuguese
+    - pt-br  # Portuguese (Brazil)
+    - pt-pt # Portuguese (Portugal)
     - zh-cn  # Chinese
     - fr  # French
     - fr-ca  # French (Canada)
